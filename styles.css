@@ -16,6 +16,17 @@ body {
     color: inherit; /* mewarisi warna dari body, yaitu putih */
 }
 
+h1 {
+
+    text-align: center;
+
+}
+h2 {
+
+    text-align: center;
+
+}
+
 .feed-item {
     margin-bottom: 15px;
     padding: 10px;
