@@ -1,7 +1,8 @@
-# rss-feed-reader Dedi Ir
-rss feed reader digunakan untuk membaca rss sebuah web dan di gunakan untuk cuplikan sebuah web
+# RSS Feed Reader by Dedi Ir
 
-anda dapat melihat cotohnya di https://ded23579.github.io/rss-feed-reader/
+RSS feed reader digunakan untuk membaca RSS sebuah web dan digunakan untuk cuplikan sebuah web.
+
+Anda dapat melihat contohnya di [ded23579.github.io/rss-feed-reader](https://ded23579.github.io/rss-feed-reader/).
 
 by Dedi Ir
-https://edu.abjad.eu.org
+[edu.abjad.eu.org](https://edu.abjad.eu.org)
